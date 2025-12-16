@@ -84,6 +84,6 @@ Este projeto é de uso educacional. Sinta-se à vontade para estudar, modificar 
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Guilherme Silva** e Nicolas de Almeida
+Desenvolvido por Guilherme Oliveira Silva e Nicolas de Almeida
 Projeto: **EliteDesk**
 
