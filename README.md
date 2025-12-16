@@ -55,7 +55,7 @@ EliteDesk é um sistema de gestão desenvolvido para simular o funcionamento de 
 1. Baixe ou clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/elitedesk.git
+  https://github.com/Guisilva29/ELITE-DESK.git
    ```
 2. Abra o arquivo do projeto no **Microsoft Access**.
 3. Certifique-se de que as **macros estejam habilitadas**.
